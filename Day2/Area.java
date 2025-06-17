@@ -17,7 +17,7 @@ public class Area {
     }
     public static void main (String[] Args){
         Scanner sc= new Scanner(System.in);
-        System.out.println("Enter the radius of the circle : ");
+        System.out.print("Enter the radius of the circle : ");
         double r=sc.nextDouble();
 
         CalulateArea a1= new CalulateArea();
