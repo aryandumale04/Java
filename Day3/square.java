@@ -7,7 +7,7 @@ public class square {
         square s1= new square();
         int n =7;
         int reuskt=s1.sqrt(n);
-        System.out.print(reuskt);cd
+        System.out.print(reuskt);
     }
     
 }
