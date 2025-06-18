@@ -19,5 +19,7 @@ public class Array2 {
             System.out.print(numArray[i]+ " ");
         }
 
+        sc.close();
+
     }
 }

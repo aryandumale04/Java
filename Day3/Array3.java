@@ -22,8 +22,11 @@ public class Array3 {
             System.out.print("The name of Student at index "+i+" is :  "+studNames[i]+"\n");
             
         }
+        
+        sc.close();
 
     }
+        
 
     
 }
